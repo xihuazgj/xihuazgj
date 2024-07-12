@@ -11,7 +11,7 @@
 
 - 💬 问我关于**Vue，Java，Springboot....**
 
-- 📫 如何联系我 **guojunzhangpro@gmai.com**
+- 📫 如何联系我 **guojunzhangpro@gmail.com**
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
