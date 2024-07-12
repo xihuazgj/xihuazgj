@@ -13,8 +13,4 @@
 
 - 📫 如何联系我 **guojunzhangpro@gmai.com**
 
-
-  
-  - name: generate-snake-game-from-github-contribution-grid
-    uses: Platane/snk@v3.2.0
             
