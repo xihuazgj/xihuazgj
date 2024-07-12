@@ -42,4 +42,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
