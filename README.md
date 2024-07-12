@@ -1,10 +1,6 @@
 <h1 align=“center”>你好，我是 guojunzhang</h1>
 <h3 align=“center”>一个来自中国的热情的开发者</h3>
 
-<p align=“left”> <img src=“https://komarev.com/ghpvc/?username=xihuazgj&label=Profile%20views&color=0e75b6&style=flat” alt=“xihuazgj” /> </p>
-
-<p align=“left”> <a href=“https://github.com/ryo-ma/github-profile-trophy”><img src=”https://github-profile-trophy.vercel.app/?username=xihuazgj“ alt=”xihuazgj“ /></a> </p>
-
 - 🔭 我目前正在研究的 [SpringCloud-demo]（https://github.com/xihuazgj/SpringCloud-demo）
 
 - 🌱 我现在正在学习 **SpringCloud，Nacos，fergn，redis，Rabbitmq**
