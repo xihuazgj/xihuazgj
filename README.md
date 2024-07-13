@@ -46,5 +46,5 @@
 
 <hr></hr>
 <h3>🔭 我目前最喜爱的女明星：章若楠-追上我比登天难，别动我的方向盘”</h3>
-<img align="left" width="400px" src="https://img.picui.cn/free/2024/07/13/66921ee100316.jpg" />
-<img align="right" width="400px" src="https://img.picui.cn/free/2024/07/13/66921edbdc5dd.jpg" />
+<img align="left" width="300px" src="https://img.picui.cn/free/2024/07/13/66921ee100316.jpg" />
+<img align="right" width="300px" src="https://img.picui.cn/free/2024/07/13/66921edbdc5dd.jpg" />
