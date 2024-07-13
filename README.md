@@ -1,7 +1,7 @@
 <h1 align=“center”>你好，我是 guojunzhang</h1>
 <h3 align=“center”>一个来自中国的热情的开发者</h3>
 
-- 🔭 我目前正在研究的 [SpringCloud-demo]（https://github.com/xihuazgj/SpringCloud-demo）
+- 🔭 我目前正在研究的 [SpringCloud-demo]（https://github.com/xihuazgj/SpringCloud-demo)
 
 - 🌱 我现在正在学习 **SpringCloud，Nacos，fergn，redis，Rabbitmq**
 
