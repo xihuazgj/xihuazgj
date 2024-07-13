@@ -43,4 +43,5 @@
 </p>
 
 <img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="center" src="https://img.picui.cn/free/2024/07/13/66921ed74ddbd.jpg" />
 <img align="center" width="50px" src="https://img.picui.cn/free/2024/07/13/66921daf84bb9.jpg" />
