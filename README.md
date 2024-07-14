@@ -3,7 +3,7 @@
 
 - 🔭 我目前正在研究的 [SpringCloud-demo]（https://github.com/xihuazgj/SpringCloud-demo)
 
-- 🌱 我现在正在学习 **SpringCloud，Nacos，fergn，redis，Rabbitmq**
+- 🌱 我现在正在学习 **SpringCloud，Nacos，feign，redis，Rabbitmq**
 
 - 👯 我想要合作 [xechat-idea]（https://github.com/anlingyi/xechat-idea）
 
